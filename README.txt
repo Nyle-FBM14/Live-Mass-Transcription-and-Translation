@@ -1,0 +1,1 @@
+This project uses SpeechRecognition (https://pypi.org/project/SpeechRecognition/), licensed under the BSD 3-Clause License. Licensing information for SpeechRecognition can be found within the SpeechRecognition README.
